@@ -42,6 +42,9 @@ class Secoc_MAC:
 	def test(self):
 		pass
 
+	def test1(self):
+		pass
+
 	def encryption(self, APDU):
 		"""
 		加密算法函数，ASE128-CMAC
