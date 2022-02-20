@@ -1,0 +1,3 @@
+# Secoc
+Vehicle_communcation_secoc_excmple
+本项目是基于ZLG设备的用于测试汽车CANFD通讯安全加密secoc的测试脚本。
